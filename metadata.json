@@ -1,0 +1,8 @@
+{
+  "name": "SmartUni Monitor",
+  "description": "Talabalar akademik xavf darajasi va auditoriya bandligini tahlil qilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
